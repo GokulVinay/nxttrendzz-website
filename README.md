@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Live Demo: nxttrendzz.ccbp.tech
+Live Demo: https://nxttrendzz.ccbp.tech/
 UserName: rahul
 Password: rahul@2021
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
